@@ -1,6 +1,6 @@
 # Avaliação de NCG
 
-## O software foi criado com intuito cooporativo, com finalidade de medir o conhecimento dos colaboradores. Assim é possível corrigir os procedimentos incorretos antes mesmo de acontecerem.
+## O software foi criado com intuito corporativo, com finalidade de medir o conhecimento dos colaboradores. Assim é possível corrigir os procedimentos incorretos antes mesmo de acontecerem.
 
 ### Funcionamento:
 
@@ -14,5 +14,5 @@
 8. Selecionando o botão "Próxima Questão" surge a próxima questão e o ciclo se repete.
 9. No fim aparece quantas questões foram acertadas e o documento com todas questões salvas é movido para área de trabalho.
 
-* Software Open Source
-* Fácil manipulação das questões e gabaritos, assim podendo usar para os mais diversos fins.
+### -> Software Open Source
+### -> Fácil manipulação das questões e gabaritos, assim podendo usar para os mais diversos fins.
